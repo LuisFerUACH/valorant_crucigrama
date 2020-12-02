@@ -1,0 +1,307 @@
+﻿  game.cpp
+c:\users\venge\source\repos\parcial3\parcial3\game.cpp(91): warning C4244: 'argumento': conversión de 'wchar_t' a 'const _Elem'; posible pérdida de datos
+          with
+          [
+              _Elem=char
+          ]
+c:\users\venge\source\repos\parcial3\parcial3\game.cpp(92): warning C4244: 'argumento': conversión de 'wchar_t' a 'const _Elem'; posible pérdida de datos
+          with
+          [
+              _Elem=char
+          ]
+c:\users\venge\source\repos\parcial3\parcial3\game.cpp(93): warning C4244: 'argumento': conversión de 'wchar_t' a 'const _Elem'; posible pérdida de datos
+          with
+          [
+              _Elem=char
+          ]
+c:\users\venge\source\repos\parcial3\parcial3\game.cpp(94): warning C4244: 'argumento': conversión de 'wchar_t' a 'const _Elem'; posible pérdida de datos
+          with
+          [
+              _Elem=char
+          ]
+c:\users\venge\source\repos\parcial3\parcial3\game.cpp(95): warning C4244: 'argumento': conversión de 'wchar_t' a 'const _Elem'; posible pérdida de datos
+          with
+          [
+              _Elem=char
+          ]
+c:\users\venge\source\repos\parcial3\parcial3\game.cpp(96): warning C4244: 'argumento': conversión de 'wchar_t' a 'const _Elem'; posible pérdida de datos
+          with
+          [
+              _Elem=char
+          ]
+c:\users\venge\source\repos\parcial3\parcial3\game.cpp(97): warning C4244: 'argumento': conversión de 'wchar_t' a 'const _Elem'; posible pérdida de datos
+          with
+          [
+              _Elem=char
+          ]
+c:\users\venge\source\repos\parcial3\parcial3\game.cpp(98): warning C4244: 'argumento': conversión de 'wchar_t' a 'const _Elem'; posible pérdida de datos
+          with
+          [
+              _Elem=char
+          ]
+c:\users\venge\source\repos\parcial3\parcial3\game.cpp(99): warning C4244: 'argumento': conversión de 'wchar_t' a 'const _Elem'; posible pérdida de datos
+          with
+          [
+              _Elem=char
+          ]
+c:\users\venge\source\repos\parcial3\parcial3\game.cpp(120): warning C4244: 'argumento': conversión de 'wchar_t' a 'const _Elem'; posible pérdida de datos
+          with
+          [
+              _Elem=char
+          ]
+c:\users\venge\source\repos\parcial3\parcial3\game.cpp(121): warning C4244: 'argumento': conversión de 'wchar_t' a 'const _Elem'; posible pérdida de datos
+          with
+          [
+              _Elem=char
+          ]
+c:\users\venge\source\repos\parcial3\parcial3\game.cpp(122): warning C4244: 'argumento': conversión de 'wchar_t' a 'const _Elem'; posible pérdida de datos
+          with
+          [
+              _Elem=char
+          ]
+c:\users\venge\source\repos\parcial3\parcial3\game.cpp(123): warning C4244: 'argumento': conversión de 'wchar_t' a 'const _Elem'; posible pérdida de datos
+          with
+          [
+              _Elem=char
+          ]
+c:\users\venge\source\repos\parcial3\parcial3\game.cpp(124): warning C4244: 'argumento': conversión de 'wchar_t' a 'const _Elem'; posible pérdida de datos
+          with
+          [
+              _Elem=char
+          ]
+c:\users\venge\source\repos\parcial3\parcial3\game.cpp(125): warning C4244: 'argumento': conversión de 'wchar_t' a 'const _Elem'; posible pérdida de datos
+          with
+          [
+              _Elem=char
+          ]
+c:\users\venge\source\repos\parcial3\parcial3\game.cpp(143): warning C4244: 'argumento': conversión de 'wchar_t' a 'const _Elem'; posible pérdida de datos
+          with
+          [
+              _Elem=char
+          ]
+c:\users\venge\source\repos\parcial3\parcial3\game.cpp(144): warning C4244: 'argumento': conversión de 'wchar_t' a 'const _Elem'; posible pérdida de datos
+          with
+          [
+              _Elem=char
+          ]
+c:\users\venge\source\repos\parcial3\parcial3\game.cpp(145): warning C4244: 'argumento': conversión de 'wchar_t' a 'const _Elem'; posible pérdida de datos
+          with
+          [
+              _Elem=char
+          ]
+c:\users\venge\source\repos\parcial3\parcial3\game.cpp(146): warning C4244: 'argumento': conversión de 'wchar_t' a 'const _Elem'; posible pérdida de datos
+          with
+          [
+              _Elem=char
+          ]
+c:\users\venge\source\repos\parcial3\parcial3\game.cpp(147): warning C4244: 'argumento': conversión de 'wchar_t' a 'const _Elem'; posible pérdida de datos
+          with
+          [
+              _Elem=char
+          ]
+c:\users\venge\source\repos\parcial3\parcial3\game.cpp(164): warning C4244: 'argumento': conversión de 'wchar_t' a 'const _Elem'; posible pérdida de datos
+          with
+          [
+              _Elem=char
+          ]
+c:\users\venge\source\repos\parcial3\parcial3\game.cpp(165): warning C4244: 'argumento': conversión de 'wchar_t' a 'const _Elem'; posible pérdida de datos
+          with
+          [
+              _Elem=char
+          ]
+c:\users\venge\source\repos\parcial3\parcial3\game.cpp(166): warning C4244: 'argumento': conversión de 'wchar_t' a 'const _Elem'; posible pérdida de datos
+          with
+          [
+              _Elem=char
+          ]
+c:\users\venge\source\repos\parcial3\parcial3\game.cpp(167): warning C4244: 'argumento': conversión de 'wchar_t' a 'const _Elem'; posible pérdida de datos
+          with
+          [
+              _Elem=char
+          ]
+c:\users\venge\source\repos\parcial3\parcial3\game.cpp(168): warning C4244: 'argumento': conversión de 'wchar_t' a 'const _Elem'; posible pérdida de datos
+          with
+          [
+              _Elem=char
+          ]
+c:\users\venge\source\repos\parcial3\parcial3\game.cpp(169): warning C4244: 'argumento': conversión de 'wchar_t' a 'const _Elem'; posible pérdida de datos
+          with
+          [
+              _Elem=char
+          ]
+c:\users\venge\source\repos\parcial3\parcial3\game.cpp(170): warning C4244: 'argumento': conversión de 'wchar_t' a 'const _Elem'; posible pérdida de datos
+          with
+          [
+              _Elem=char
+          ]
+c:\users\venge\source\repos\parcial3\parcial3\game.cpp(189): warning C4244: 'argumento': conversión de 'wchar_t' a 'const _Elem'; posible pérdida de datos
+          with
+          [
+              _Elem=char
+          ]
+c:\users\venge\source\repos\parcial3\parcial3\game.cpp(190): warning C4244: 'argumento': conversión de 'wchar_t' a 'const _Elem'; posible pérdida de datos
+          with
+          [
+              _Elem=char
+          ]
+c:\users\venge\source\repos\parcial3\parcial3\game.cpp(191): warning C4244: 'argumento': conversión de 'wchar_t' a 'const _Elem'; posible pérdida de datos
+          with
+          [
+              _Elem=char
+          ]
+c:\users\venge\source\repos\parcial3\parcial3\game.cpp(192): warning C4244: 'argumento': conversión de 'wchar_t' a 'const _Elem'; posible pérdida de datos
+          with
+          [
+              _Elem=char
+          ]
+c:\users\venge\source\repos\parcial3\parcial3\game.cpp(193): warning C4244: 'argumento': conversión de 'wchar_t' a 'const _Elem'; posible pérdida de datos
+          with
+          [
+              _Elem=char
+          ]
+c:\users\venge\source\repos\parcial3\parcial3\game.cpp(194): warning C4244: 'argumento': conversión de 'wchar_t' a 'const _Elem'; posible pérdida de datos
+          with
+          [
+              _Elem=char
+          ]
+c:\users\venge\source\repos\parcial3\parcial3\game.cpp(195): warning C4244: 'argumento': conversión de 'wchar_t' a 'const _Elem'; posible pérdida de datos
+          with
+          [
+              _Elem=char
+          ]
+c:\users\venge\source\repos\parcial3\parcial3\game.cpp(214): warning C4244: 'argumento': conversión de 'wchar_t' a 'const _Elem'; posible pérdida de datos
+          with
+          [
+              _Elem=char
+          ]
+c:\users\venge\source\repos\parcial3\parcial3\game.cpp(215): warning C4244: 'argumento': conversión de 'wchar_t' a 'const _Elem'; posible pérdida de datos
+          with
+          [
+              _Elem=char
+          ]
+c:\users\venge\source\repos\parcial3\parcial3\game.cpp(216): warning C4244: 'argumento': conversión de 'wchar_t' a 'const _Elem'; posible pérdida de datos
+          with
+          [
+              _Elem=char
+          ]
+c:\users\venge\source\repos\parcial3\parcial3\game.cpp(217): warning C4244: 'argumento': conversión de 'wchar_t' a 'const _Elem'; posible pérdida de datos
+          with
+          [
+              _Elem=char
+          ]
+c:\users\venge\source\repos\parcial3\parcial3\game.cpp(233): warning C4244: 'argumento': conversión de 'wchar_t' a 'const _Elem'; posible pérdida de datos
+          with
+          [
+              _Elem=char
+          ]
+c:\users\venge\source\repos\parcial3\parcial3\game.cpp(234): warning C4244: 'argumento': conversión de 'wchar_t' a 'const _Elem'; posible pérdida de datos
+          with
+          [
+              _Elem=char
+          ]
+c:\users\venge\source\repos\parcial3\parcial3\game.cpp(235): warning C4244: 'argumento': conversión de 'wchar_t' a 'const _Elem'; posible pérdida de datos
+          with
+          [
+              _Elem=char
+          ]
+c:\users\venge\source\repos\parcial3\parcial3\game.cpp(236): warning C4244: 'argumento': conversión de 'wchar_t' a 'const _Elem'; posible pérdida de datos
+          with
+          [
+              _Elem=char
+          ]
+c:\users\venge\source\repos\parcial3\parcial3\game.cpp(237): warning C4244: 'argumento': conversión de 'wchar_t' a 'const _Elem'; posible pérdida de datos
+          with
+          [
+              _Elem=char
+          ]
+c:\users\venge\source\repos\parcial3\parcial3\game.cpp(254): warning C4244: 'argumento': conversión de 'wchar_t' a 'const _Elem'; posible pérdida de datos
+          with
+          [
+              _Elem=char
+          ]
+c:\users\venge\source\repos\parcial3\parcial3\game.cpp(255): warning C4244: 'argumento': conversión de 'wchar_t' a 'const _Elem'; posible pérdida de datos
+          with
+          [
+              _Elem=char
+          ]
+c:\users\venge\source\repos\parcial3\parcial3\game.cpp(256): warning C4244: 'argumento': conversión de 'wchar_t' a 'const _Elem'; posible pérdida de datos
+          with
+          [
+              _Elem=char
+          ]
+c:\users\venge\source\repos\parcial3\parcial3\game.cpp(257): warning C4244: 'argumento': conversión de 'wchar_t' a 'const _Elem'; posible pérdida de datos
+          with
+          [
+              _Elem=char
+          ]
+c:\users\venge\source\repos\parcial3\parcial3\game.cpp(273): warning C4244: 'argumento': conversión de 'wchar_t' a 'const _Elem'; posible pérdida de datos
+          with
+          [
+              _Elem=char
+          ]
+c:\users\venge\source\repos\parcial3\parcial3\game.cpp(274): warning C4244: 'argumento': conversión de 'wchar_t' a 'const _Elem'; posible pérdida de datos
+          with
+          [
+              _Elem=char
+          ]
+c:\users\venge\source\repos\parcial3\parcial3\game.cpp(275): warning C4244: 'argumento': conversión de 'wchar_t' a 'const _Elem'; posible pérdida de datos
+          with
+          [
+              _Elem=char
+          ]
+c:\users\venge\source\repos\parcial3\parcial3\game.cpp(276): warning C4244: 'argumento': conversión de 'wchar_t' a 'const _Elem'; posible pérdida de datos
+          with
+          [
+              _Elem=char
+          ]
+c:\users\venge\source\repos\parcial3\parcial3\game.cpp(292): warning C4244: 'argumento': conversión de 'wchar_t' a 'const _Elem'; posible pérdida de datos
+          with
+          [
+              _Elem=char
+          ]
+c:\users\venge\source\repos\parcial3\parcial3\game.cpp(293): warning C4244: 'argumento': conversión de 'wchar_t' a 'const _Elem'; posible pérdida de datos
+          with
+          [
+              _Elem=char
+          ]
+c:\users\venge\source\repos\parcial3\parcial3\game.cpp(294): warning C4244: 'argumento': conversión de 'wchar_t' a 'const _Elem'; posible pérdida de datos
+          with
+          [
+              _Elem=char
+          ]
+c:\users\venge\source\repos\parcial3\parcial3\game.cpp(295): warning C4244: 'argumento': conversión de 'wchar_t' a 'const _Elem'; posible pérdida de datos
+          with
+          [
+              _Elem=char
+          ]
+c:\users\venge\source\repos\parcial3\parcial3\game.cpp(101): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.18362.0\ucrt\string.h(133): note: vea la declaración de 'strcpy'
+c:\users\venge\source\repos\parcial3\parcial3\game.cpp(127): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.18362.0\ucrt\string.h(133): note: vea la declaración de 'strcpy'
+c:\users\venge\source\repos\parcial3\parcial3\game.cpp(149): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.18362.0\ucrt\string.h(133): note: vea la declaración de 'strcpy'
+c:\users\venge\source\repos\parcial3\parcial3\game.cpp(172): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.18362.0\ucrt\string.h(133): note: vea la declaración de 'strcpy'
+c:\users\venge\source\repos\parcial3\parcial3\game.cpp(197): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.18362.0\ucrt\string.h(133): note: vea la declaración de 'strcpy'
+c:\users\venge\source\repos\parcial3\parcial3\game.cpp(219): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.18362.0\ucrt\string.h(133): note: vea la declaración de 'strcpy'
+c:\users\venge\source\repos\parcial3\parcial3\game.cpp(239): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.18362.0\ucrt\string.h(133): note: vea la declaración de 'strcpy'
+c:\users\venge\source\repos\parcial3\parcial3\game.cpp(259): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.18362.0\ucrt\string.h(133): note: vea la declaración de 'strcpy'
+c:\users\venge\source\repos\parcial3\parcial3\game.cpp(278): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.18362.0\ucrt\string.h(133): note: vea la declaración de 'strcpy'
+c:\users\venge\source\repos\parcial3\parcial3\game.cpp(296): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.18362.0\ucrt\string.h(133): note: vea la declaración de 'strcpy'
+c:\users\venge\source\repos\parcial3\parcial3\game.cpp(549): warning C4101: 'p3': variable local sin referencia
+c:\users\venge\source\repos\parcial3\parcial3\game.cpp(549): warning C4101: 'p2': variable local sin referencia
+c:\users\venge\source\repos\parcial3\parcial3\game.cpp(564): warning C4018: '<': no coinciden signed/unsigned
+c:\users\venge\source\repos\parcial3\parcial3\game.cpp(706): warning C4305: 'argumento': truncamiento de 'int' a 'const _Elem'
+          with
+          [
+              _Elem=char
+          ]
+c:\users\venge\source\repos\parcial3\parcial3\game.cpp(706): warning C4309: 'argumento': truncamiento de valor constante
+  game.obj : se encontró un módulo MSIL; vinculación incremental deshabilitada para MSIL; ejecutando vínculo completo
+  parcial3.vcxproj -> C:\Users\venge\source\repos\parcial3\Debug\parcial3.exe
